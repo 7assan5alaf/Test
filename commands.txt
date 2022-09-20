@@ -1,0 +1,15 @@
+git config --global user.email "your email"
+git config --global user.name "your username"
+
+
+
+git init
+git status
+git add .
+git commit -m "message"
+git branch -m main
+git remote add origin https://github.com/7assan5alaf/(nameOfRepresotry).git
+git push -u origin main
+
+
+
